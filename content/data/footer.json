@@ -80,5 +80,12 @@
     "copyrightText": "Inhaber: Benjamin Becker,\n\nFacharzt für Psychosomatische Medizin\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer",
-    "title": "Psychosomatikum Hamburg"
+    "title": "Psychosomatikum Hamburg",
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-36"
+            ]
+        }
+    }
 }
