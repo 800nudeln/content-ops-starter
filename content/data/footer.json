@@ -84,8 +84,10 @@
     "styles": {
         "self": {
             "padding": [
-                "pt-3",
-                "pb-0"
+                "pt-28",
+                "pb-28",
+                "pl-28",
+                "pr-28"
             ],
             "margin": [
                 "mb-0",
