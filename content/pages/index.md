@@ -19,7 +19,9 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Fachzentrum für psychsomatische medizin
+      label: >-
+        Fachzentrum für psychosomatische medizin & tiefenpsychologisch-fundierte
+        Psychotherapie
       color: text-primary
       type: Badge
     elementId: ''
