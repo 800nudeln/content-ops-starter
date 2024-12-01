@@ -85,7 +85,7 @@
         "self": {
             "padding": [
                 "pt-3",
-                "pb-32"
+                "pb-0"
             ],
             "margin": [
                 "mb-0",
