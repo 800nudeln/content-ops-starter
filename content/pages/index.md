@@ -19,7 +19,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: psychsomatikum
+      label: Fachzentrum für psychsomatische medizin
       color: text-primary
       type: Badge
     elementId: ''
