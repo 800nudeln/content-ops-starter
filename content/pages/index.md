@@ -51,12 +51,10 @@ sections:
       - type: FeaturedItem
         title: Diagnostik
         subtitle: ''
-        text: >
-          Sie fühlen sich verändert oder haben Beschwerden bemerkt, zu denen Sie
-          sich eine umfassende, ärztlich-psychotherapeutische Einschätzung
-          wünschen? Während dreier Termine ordnen wir gemeinsam Ihre Beschwerden
-          zu und beraten Sie im Anschluss ausführlich über die nächsten
-          Schritte.
+        text: |
+          Sie haben Beschwerden, zu denen Sie eine "zweite Meinung" benötigen?
+
+          Mehr Infos finden Sie hier ...
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
