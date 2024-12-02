@@ -52,9 +52,9 @@ sections:
         title: Diagnostik
         subtitle: ''
         text: |
-          Sie haben Beschwerden, zu denen Sie eine "zweite Meinung" benötigen?
+          Sie haben Beschwerden, zu denen Sie "noch keine Meinung" haben?
 
-          Mehr Infos finden Sie hier ...
+          Mehr Infos finden Sie hier...
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
