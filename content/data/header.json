@@ -12,14 +12,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Kontakt",
-            "url": "/PSHH",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Inhalt",
             "altText": "Dropdown",
             "links": [
@@ -53,6 +45,14 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
+        },
+        {
+            "label": "Kontakt",
+            "url": "/PSHH",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         }
     ],
     "secondaryLinks": [],
