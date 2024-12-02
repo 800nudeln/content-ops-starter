@@ -51,10 +51,12 @@ sections:
       - type: FeaturedItem
         title: Diagnostik
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Sie fühlen sich verändert oder haben Beschwerden bemerkt, zu denen Sie
+          sich eine umfassende, ärztlich-psychotherapeutische Einschätzung
+          wünschen? Während dreier Termine ordnen wir gemeinsam Ihre Beschwerden
+          zu und beraten Sie im Anschluss ausführlich über die nächsten
+          Schritte.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
