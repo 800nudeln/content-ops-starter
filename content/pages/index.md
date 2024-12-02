@@ -9,9 +9,11 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Als Fachzentrum für psychosomatische Medizin bieten wir Ihnen eine
+      fundierte Diagnostik, Beratung, Behandlung und Begutachtung zu allen
+      Fragestellungen, die unser Fachgebiet betreffen. Ob wir für Sie tätig
+      werden können, klären wir gern mit Ihnen während eines gemeinsamen
+      Vorgesprächs.
     actions: []
     media:
       url: /images/istockphoto-1413787769-612x612.jpg
