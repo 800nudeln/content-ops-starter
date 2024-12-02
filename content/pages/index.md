@@ -78,7 +78,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Behandlung
-        subtitle: The Job Stuff
+        subtitle: ''
         text: >
           Wir bieten psychotherapeutische Kurzzeitbehandlungen (max. 25 Stunden)
           an.
