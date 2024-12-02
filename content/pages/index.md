@@ -136,7 +136,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Unser Angebot
       color: text-primary
       styles:
         self:
