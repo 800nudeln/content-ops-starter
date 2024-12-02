@@ -45,7 +45,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: 'Was wir Ihnen anbieten können:'
+    subtitle: 'Was wir Ihnen anbieten:'
     items:
       - type: FeaturedItem
         title: Diagnostik
