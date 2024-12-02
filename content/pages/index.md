@@ -7,7 +7,7 @@ sections:
       text: Herzlich Willkommen!
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: |
       auf den Seiten des Psychosomatikum in Hamburg.
     actions: []
