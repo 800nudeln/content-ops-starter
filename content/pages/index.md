@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Herzlich Willkommen!
+      text: Herzlich Willkommen
       color: text-dark
       type: TitleBlock
     subtitle: ''
