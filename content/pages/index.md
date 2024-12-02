@@ -104,10 +104,11 @@ sections:
         type: FeaturedItem
       - title: Begutachtung
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Wir erstellen gerichtsfeste Gutachten auf der Grundlage des jeweils
+          aktuellen wissenschaftlichen Standards. In einem ersten Gespräch
+          orientieren wir uns zusammen mit Ihnen, ob unsere Expertise zu Ihrer
+          Fragestellung passt. 
         image:
           url: /images/icon3.svg
           altText: Featured icon three
