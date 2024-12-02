@@ -54,7 +54,9 @@ sections:
         text: |
           Sie haben Beschwerden, zu denen Sie "noch keine Meinung" haben?
 
-          Mehr Infos finden Sie hier...
+
+
+          Mehr Infos hier...
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
