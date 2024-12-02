@@ -52,7 +52,7 @@
                 },
                 {
                     "label": "Kosten und Finanzierung",
-                    "url": "/",
+                    "url": "/finanz",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
