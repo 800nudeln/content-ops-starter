@@ -40,7 +40,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Was wir bieten
+      text: ''
       color: text-dark
       styles:
         self:
