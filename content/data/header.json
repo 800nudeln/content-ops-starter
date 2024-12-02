@@ -43,7 +43,7 @@
             "links": [
                 {
                     "label": "Über uns",
-                    "url": "/",
+                    "url": "/wir",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
