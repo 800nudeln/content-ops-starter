@@ -50,7 +50,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Diagnostik
-        subtitle: Numbers Done
+        subtitle: Was ist los?
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
