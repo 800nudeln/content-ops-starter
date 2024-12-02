@@ -8,8 +8,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: |
-      auf den Seiten des Psychosomatikum in Hamburg.
+    text: >
+      ...auf den Seiten des Psychosomatikum in Hamburg. Wie können wir Ihnen
+      weiterhelfen?
     actions: []
     media:
       url: /images/istockphoto-1413787769-612x612.jpg
