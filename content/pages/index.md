@@ -94,10 +94,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-7
-              - pl-7
-              - pb-7
-              - pr-7
+              - pt-4
+              - pl-4
+              - pb-4
+              - pr-4
             borderRadius: x-large
             flexDirection: row
             textAlign: left
