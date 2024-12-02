@@ -106,11 +106,10 @@ sections:
         type: FeaturedItem
       - title: Begutachtung
         subtitle: ''
-        text: >
-          Wir erstellen gerichtsfeste Gutachten auf der Grundlage des jeweils
-          aktuellen wissenschaftlichen Standards. In einem ersten Gespräch
-          orientieren wir uns zusammen mit Ihnen, ob unsere Expertise zu Ihrer
-          Fragestellung passt. 
+        text: |
+          Wir erstellen gerichtsfeste Gutachten.
+
+          Mehr Infos hier...
         image:
           url: /images/icon3.svg
           altText: Featured icon three
