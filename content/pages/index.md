@@ -81,10 +81,8 @@ sections:
               borderRadius: x-large
       - title: Behandlung
         subtitle: ''
-        text: >
-          Wir bieten psychotherapeutische Kurzzeitbehandlungen mit max. 25
-          Stunden an. 
-
+        text: |
+          Zu unseren Behandlungsmöglichkeiten
 
           Mehr Infos finden Sie hier...
         image:
