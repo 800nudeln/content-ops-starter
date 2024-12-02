@@ -13,7 +13,7 @@ sections:
       weiterhelfen?
     actions: []
     media:
-      url: /images/istockphoto-1413787769-612x612.jpg
+      url: /images/pexels-jan-van-der-wolf-11680885-19013463.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
