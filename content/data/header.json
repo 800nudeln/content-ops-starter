@@ -29,15 +29,6 @@
             "type": "Link"
         },
         {
-            "label": "Kosten",
-            "altText": "Finanzielles",
-            "url": "/kosten",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Inhalt",
             "altText": "Dropdown",
             "links": [
