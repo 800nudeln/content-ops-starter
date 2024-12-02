@@ -31,7 +31,7 @@
         {
             "label": "Kosten",
             "altText": "Careers page",
-            "url": "/honorar",
+            "url": "/kosten",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
