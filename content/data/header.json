@@ -31,7 +31,7 @@
         {
             "label": "Honorar",
             "altText": "Careers page",
-            "url": "/careers",
+            "url": "/honorar",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
