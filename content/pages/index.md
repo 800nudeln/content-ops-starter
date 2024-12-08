@@ -18,9 +18,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: >-
-        Fachzentrum für psychosomatische medizin & tiefenpsychologisch-fundierte
-        Psychotherapie
+      label: Herzlich willkommen!
       color: text-primary
       type: Badge
       styles:
