@@ -128,10 +128,10 @@ sections:
     styles:
       self:
         padding:
-          - pb-2
-          - pt-2
-          - pl-2
-          - pr-2
+          - pb-0
+          - pt-0
+          - pl-0
+          - pr-0
         justifyContent: center
       subtitle:
         textAlign: center
