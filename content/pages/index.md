@@ -2,37 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    title:
-      text: DPsychosomatikum Hamburg i
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
-    text: ''
-    actions: []
-    media:
-      url: /images/pexels-jan-van-der-wolf-11680885-19013463.jpg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    badge:
-      label: Fachzentrum für psychosomatische Medizin und Psychotherapie
-      color: text-primary
-      type: Badge
-      styles:
-        self:
-          fontWeight: 400
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-10
-          - pl-10
-          - pb-10
-          - pr-10
   - type: FeaturedItemsSection
     title:
       text: ''
@@ -136,6 +105,37 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 700
+  - type: GenericSection
+    title:
+      text: DPsychosomatikum Hamburg i
+      color: text-dark
+      type: TitleBlock
+    subtitle: ''
+    text: ''
+    actions: []
+    media:
+      url: /images/pexels-jan-van-der-wolf-11680885-19013463.jpg
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
+    badge:
+      label: Fachzentrum für psychosomatische Medizin und Psychotherapie
+      color: text-primary
+      type: Badge
+      styles:
+        self:
+          fontWeight: 400
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-10
+          - pl-10
+          - pb-10
+          - pr-10
   - title: Divider
     colors: bg-light-fg-dark
     styles:
