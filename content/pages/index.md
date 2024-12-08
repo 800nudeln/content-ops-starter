@@ -12,29 +12,6 @@ sections:
       type: TitleBlock
     subtitle: ''
     items:
-      - title: Behandlung
-        subtitle: ''
-        text: |
-          Unsere Möglichkeiten der therapeutischen Zusammenarbeit.
-        image:
-          url: /images/icon2.svg
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-2
-              - pl-2
-              - pb-2
-              - pr-2
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
       - type: FeaturedItem
         title: Diagnostik
         subtitle: ''
