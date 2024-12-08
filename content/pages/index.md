@@ -107,7 +107,7 @@ sections:
         fontWeight: 700
   - type: GenericSection
     title:
-      text: DPsychosomatikum Hamburg i
+      text: Das Psychosomatikum Hamburg
       color: text-dark
       type: TitleBlock
     subtitle: ''
