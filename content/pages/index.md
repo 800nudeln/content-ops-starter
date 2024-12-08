@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Das Psychosomatikum Hamburg i
+      text: DPsychosomatikum Hamburg i
       color: text-dark
       type: TitleBlock
     subtitle: ''
