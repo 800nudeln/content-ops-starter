@@ -8,8 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: |
-      Können wir Ihnen weiterhelfen?
+    text: ''
     actions: []
     media:
       url: /images/pexels-jan-van-der-wolf-11680885-19013463.jpg
