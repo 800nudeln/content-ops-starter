@@ -97,10 +97,10 @@ sections:
     styles:
       self:
         padding:
-          - pb-7
-          - pt-7
-          - pl-7
-          - pr-7
+          - pb-6
+          - pt-6
+          - pl-6
+          - pr-6
         justifyContent: center
       subtitle:
         textAlign: center
