@@ -41,7 +41,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Unsere Leistungen
+    subtitle: ''
     items:
       - title: Behandlung
         subtitle: ''
