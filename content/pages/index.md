@@ -8,9 +8,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      ...auf den Seiten des Psychosomatikum in Hamburg. Wie können wir Ihnen
-      weiterhelfen?
+    text: |
+      Können wir Ihnen weiterhelfen?
     actions: []
     media:
       url: /images/pexels-jan-van-der-wolf-11680885-19013463.jpg
