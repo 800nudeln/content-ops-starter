@@ -99,8 +99,6 @@ sections:
         subtitle: ''
         text: |
           Wir erstellen gerichtsfeste Gutachten.
-
-          Mehr Infos hier...
         image:
           url: /images/icon3.svg
           altText: Featured icon three
