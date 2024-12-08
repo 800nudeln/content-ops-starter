@@ -29,10 +29,10 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-12
-          - pl-12
-          - pb-12
-          - pr-12
+          - pt-10
+          - pl-10
+          - pb-10
+          - pr-10
   - type: FeaturedItemsSection
     title:
       text: ''
