@@ -73,9 +73,8 @@ sections:
               borderRadius: x-large
       - title: Behandlung
         subtitle: ''
-        text: >
-          Gern informieren wir Sie zu Möglichkeiten therapeutischer
-          Zusammenarbeit.
+        text: |
+          Unsere Möglichkeiten der therapeutischen Zusammenarbeit.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
