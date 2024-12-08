@@ -48,11 +48,7 @@ sections:
         title: Diagnostik
         subtitle: ''
         text: |
-          Sie haben Beschwerden, zu denen Sie "noch keine Meinung" haben?
-
-
-
-          Mehr Infos hier...
+          Wenn Befund und Befinden nicht (ganz) zusammenpassen.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
