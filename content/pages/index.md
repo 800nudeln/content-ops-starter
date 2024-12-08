@@ -18,7 +18,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Herzlich willkommen!
+      label: Fachzentrum für psychosomatische Medizin und Psychotherapie
       color: text-primary
       type: Badge
       styles:
