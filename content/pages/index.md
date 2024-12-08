@@ -43,6 +43,29 @@ sections:
       type: TitleBlock
     subtitle: 'Unsere Leistungen:'
     items:
+      - title: Behandlung
+        subtitle: ''
+        text: |
+          Unsere Möglichkeiten der therapeutischen Zusammenarbeit.
+        image:
+          url: /images/icon2.svg
+          altText: Featured icon two
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-4
+              - pl-4
+              - pb-4
+              - pr-4
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+        type: FeaturedItem
       - type: FeaturedItem
         title: Diagnostik
         subtitle: ''
@@ -70,29 +93,6 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Behandlung
-        subtitle: ''
-        text: |
-          Unsere Möglichkeiten der therapeutischen Zusammenarbeit.
-        image:
-          url: /images/icon2.svg
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-4
-              - pl-4
-              - pb-4
-              - pr-4
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
       - title: Begutachtung
         subtitle: ''
         text: |
