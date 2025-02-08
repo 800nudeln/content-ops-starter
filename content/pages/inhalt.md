@@ -11,7 +11,7 @@ sections:
     text: ''
     actions:
       - type: Link
-        label: See Tutorials
+        label: Zur Person
         altText: ''
         url: /ZurPerson
         showIcon: false
