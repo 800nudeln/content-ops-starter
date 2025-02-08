@@ -96,6 +96,7 @@ sections:
             - pt-2
             - pr-2
             - pl-2
+            - pb-2
     elementId: ''
     colors: bg-light-fg-dark
     styles:
