@@ -11,7 +11,7 @@ sections:
     text: ''
     actions:
       - type: Link
-        label: Diagnostik und Beratung
+        label: 'Diagnostik, Beratung und Begutachtung'
         altText: ''
         url: /diagnostik
         showIcon: false
