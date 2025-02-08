@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Zur Person
-date: '2023-03-08'
+date: '2023-02-08'
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
