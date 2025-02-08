@@ -26,11 +26,15 @@ styles:
   self:
     flexDirection: col
 ---
-**Einzelpsychotherapie bei** 
+**Einzelpsychotherapie bei**
 
 *   Angst und Depression
 
 *   Persönlichkeitsstörungen
+
+*   Wiederkehrenden zwischenmenschlichen Schwierigkeiten
+
+*   Lebenskrisen
 
 *   Psychische Belastung durch körperlich ausgeprägte Beschwerden
 
