@@ -14,7 +14,7 @@ sections:
         label: Zur Person
         altText: ''
         url: /ZurPerson
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
