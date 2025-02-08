@@ -20,7 +20,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: Einzeltherapie
+        label: Psychotherapie
         altText: ''
         url: /
         showIcon: false
