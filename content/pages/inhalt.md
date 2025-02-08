@@ -18,7 +18,7 @@ sections:
       styles:
         self:
           margin:
-            - ml-80
+            - ml-96
     badge:
       type: Badge
       label: Fachzentrum für psychosomatische Medizin und Psychotherapie
