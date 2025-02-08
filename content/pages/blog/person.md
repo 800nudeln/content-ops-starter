@@ -40,6 +40,12 @@ Psychotherapeutische Ausbildung durch das Michael-Balint-Institut Hamburg, Absc
 
 *   Medizinisch-psychologische Begutachtung (2025, zert. durch die Ärztekammer Hamburg)
 
+**Mitgliedschaften**
+
+*   Michael-Balint-Institut Hamburg
+
+*   DGPPN - Deutsche Gesellschaft für Psychiatrie und Psychotherapie, Psychosomatik und Nervenheilkunde
+
 **Beruflicher Werdegang**
 
 Studium der Humanmedizin
@@ -61,11 +67,4 @@ Assistenzärztliche Tätigkeit
 Oberärztliche Tätigkeit
 
 *   Psychiatrischen Abteilung am evangelischen Krankenhaus Ginsterhof
-
-***
-
-**Mitgliedschaften**
-
-*   Michael-Balint-Institut Hamburg
-*   DGPPN - Deutsche Gesellschaft für Psychiatrie und Psychotherapie, Psychosomatik und Nervenheilkunde
 
