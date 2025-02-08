@@ -20,7 +20,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: See Tutorials
+        label: MBT - Gruppe
         altText: ''
         url: /
         showIcon: false
