@@ -27,11 +27,13 @@ styles:
     flexDirection: row
 type: PostLayout
 ---
-Die mentalisierungsbasierte Gruppentherapie (MBT-G) ist eine neuere Entwicklung psychodynamischer Gruppenpsychotherapien. Sie wurde von der Arbeitsgruppe um Antony Bateman und Peter Fonagy in einer Londoner Tagesklinik für die Behandlung von Menschen mit einer Borderline-Persönlichkeitsstörung (BPS) konzipiert, die Wirksamkeit ist mittlerweile auch für viele andere Störungsbilder und Störungen in der Persönlichkeitsorganisation nachgewiesen.  
+Die Voraussetzung zur Teilnahme ist das Durchlaufen aller 10 Sitzungen im Rahmen der MBT-Vorbereitungsgruppe.
+
+Die mentalisierungsbasierte Gruppentherapie (MBT-G) ist eine neuere Entwicklung psychodynamischer Gruppenpsychotherapien. Sie wurde von der Arbeitsgruppe um Antony Bateman und Peter Fonagy in einer Londoner Tagesklinik für die Behandlung von Menschen mit einer Borderline-Persönlichkeitsstörung (BPS) konzipiert, die Wirksamkeit ist mittlerweile auch für viele andere Störungsbilder und Störungen in der Persönlichkeitsorganisation nachgewiesen.
 
 Mentalisieren beschreibt die Fähigkeit, sich auf mentale Zustände (z. B. Überzeugungen, Gedanken, Gefühle, Bedürfnisse und Wünsche) von sich und anderen zu beziehen und diese als dem Verhalten zugrundeliegend zu begreifen und darüber nachdenken zu können. Auf diese Weise kann ein Individuum sein inneres Erleben und das anderer Personen gleichermaßen wahrnehmen und in die eigene Handlungsplanung einbinden. Für zwischenmenschliche Begegnungen ist diese Form der Perspektivübernahme von zentraler Bedeutung und eine wichtige Voraussetzung, um die Interaktion mit anderen mühelos, automatisch und intuitiv gestalten zu können.
 
-Schwierigkeiten im Mentalisieren psychischer Prozesse im wechselseitigen emotionalen Miteinander führen zu einer Dauerbelastung durch „mentalen Stress“. Die damit einhergehende soziale Isolation kann bei den Betroffenen einen erheblichen Leidensdruck hervorrufen und trägt zur Entwicklung psychischer Störungen mit bei. 
+Schwierigkeiten im Mentalisieren psychischer Prozesse im wechselseitigen emotionalen Miteinander führen zu einer Dauerbelastung durch „mentalen Stress“. Die damit einhergehende soziale Isolation kann bei den Betroffenen einen erheblichen Leidensdruck hervorrufen und trägt zur Entwicklung psychischer Störungen mit bei.
 
 Fokus der MBT-G ist die Förderung des Mentalisierens durch gezielte explizite Interventionen in einem lebendiger, auf die zwischenmenschlichen Interaktionen, Gefühle und Gedanken ausgerichteten Setting.
 
