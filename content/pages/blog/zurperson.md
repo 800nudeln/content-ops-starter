@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Zur Person
-slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
+slug: zurPerson
 date: '2023-01-18'
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
