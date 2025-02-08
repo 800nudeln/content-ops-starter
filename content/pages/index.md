@@ -9,7 +9,16 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: ''
-    actions: []
+    actions:
+      - type: Link
+        label: See Tutorials
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       url: /images/pexels-jan-van-der-wolf-11680885-19013463.jpg
       altText: Unblock your team boost your time to production preview
