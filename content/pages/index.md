@@ -56,18 +56,18 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: Hilfreiches
+        label: Kontakt und Kostenübernahme
         altText: ''
-        url: /hilfreiches
+        url: /
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
       - type: Link
-        label: Kontakt und Kostenübernahme
+        label: Hilfreiches
         altText: ''
-        url: /
+        url: /hilfreiches
         showIcon: false
         icon: arrowRight
         iconPosition: right
