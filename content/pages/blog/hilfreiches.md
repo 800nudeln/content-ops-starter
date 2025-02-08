@@ -36,4 +36,3 @@ styles:
 
 *   Verhalten in Krisenfällen
 
-*
