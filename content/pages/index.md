@@ -49,7 +49,7 @@ sections:
       - type: Link
         label: Zur Person
         altText: ''
-        url: /person
+        url: blog/person
         showIcon: false
         icon: arrowRight
         iconPosition: right
