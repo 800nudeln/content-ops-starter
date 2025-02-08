@@ -2,22 +2,6 @@
 type: PageLayout
 title: Inhalt
 sections:
-  - type: PricingSection
-    title:
-      type: TitleBlock
-      text: Flexible Pricing
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: This is the subtitle for the pricing section
-    plans: []
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: GenericSection
     title:
       type: TitleBlock
