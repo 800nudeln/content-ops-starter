@@ -40,17 +40,15 @@ Psychotherapeutische Ausbildung durch das Michael-Balint-Institut Hamburg, Absc
 
 *   Medizinisch-psychologische Begutachtung (2025, zert. durch die Ärztekammer Hamburg)
 
-
-
 **Beruflicher Werdegang**
 
-Studium der Humanmedizin 
+Studium der Humanmedizin
 
 *   Ludwig-Maximilian-Universität München
 
 *   Westfälischen Wilhelms Universität Münster
 
-Assistenzärztliche Tätigkeit 
+Assistenzärztliche Tätigkeit
 
 *   Akut- und Intensivneurologie sowie der Allgemeinen Inneren Medizin
 
@@ -64,13 +62,10 @@ Oberärztliche Tätigkeit
 
 *   Psychiatrischen Abteilung am evangelischen Krankenhaus Ginsterhof
 
-****
+***
 
 **Mitgliedschaften**
 
 *   Michael-Balint-Institut Hamburg
-
-<!---->
-
 *   DGPPN - Deutsche Gesellschaft für Psychiatrie und Psychotherapie, Psychosomatik und Nervenheilkunde
 
