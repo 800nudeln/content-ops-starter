@@ -25,15 +25,6 @@
                     "altText": "Uns"
                 },
                 {
-                    "label": "Finanzierung",
-                    "url": "/finanz",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link",
-                    "altText": "Finanz"
-                },
-                {
                     "label": "Kontakt",
                     "url": "/kontakt",
                     "icon": "arrowRight",
