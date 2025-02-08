@@ -1,5 +1,5 @@
 ---
-title: Mentalisierungsbasierte Gruppentherapie
+title: Mentalisierungsbasierte Gruppentherapie (MBT Gruppe)
 slug: five-tips-for-starting-a-startup
 date: '2025-03-18'
 excerpt: >-
