@@ -26,6 +26,12 @@ styles:
   self:
     flexDirection: col
 ---
+**Vor Beginn einer Behandlung** 
+
+...am Psychosomatikum führen wir bis zu drei diagnostische Erstgespräche durch, um einen ersten Eindruck von der Natur und Ausprägung Ihrer Schwierigkeiten zu bekommen. Da eine erfolgreiche psychotherapeutische Arbeit ganz wesentlich von einer vertrauensvollen Beziehung zwischen Arzt und Patient abhängig ist, überprüfen wir in dieser Zeit auch gemeinsam, ob eine gute persönliche "Passung" besteht. 
+
+Termine für ein Erstgespräch werden ausschließlich telefonisch vergeben. Sie erreichen unseren elektronischen Anrufbeantworter unter der Nummer 040/XXX. Hinterlassen Sie bitte Ihr Anliegen, Ihren Namen und Ihre Telefonummer. Nach Reihenfolge der eingegangenen Anrufe rufen wir Sie Montagmorgens von 09 - 10 Uhr zurück.
+
 **Einzelpsychotherapie bei**
 
 *   Angst und Depression
