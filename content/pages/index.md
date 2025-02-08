@@ -13,7 +13,7 @@ sections:
       - type: Link
         label: Diagnostik und Beratung
         altText: ''
-        url: /
+        url: /diagnostik
         showIcon: false
         icon: arrowRight
         iconPosition: right
