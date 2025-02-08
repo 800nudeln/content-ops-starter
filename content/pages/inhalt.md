@@ -29,7 +29,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: See Tutorials
+        label: Einzeltherapie
         altText: ''
         url: /
         showIcon: false
