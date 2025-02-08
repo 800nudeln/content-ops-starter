@@ -65,7 +65,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: See Tutorials
+        label: Zur Person
         altText: ''
         url: /
         showIcon: false
