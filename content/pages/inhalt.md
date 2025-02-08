@@ -91,13 +91,6 @@ sections:
         self:
           margin:
             - ml-96
-    badge:
-      type: Badge
-      label: Fachzentrum für psychosomatische Medizin und Psychotherapie
-      color: text-primary
-      styles:
-        self:
-          fontWeight: 400
     elementId: ''
     colors: bg-light-fg-dark
     styles:
