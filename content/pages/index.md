@@ -58,7 +58,7 @@ sections:
       - type: Link
         label: Kontakt und Kostenübernahme
         altText: ''
-        url: /
+        url: blog/kontakt
         showIcon: false
         icon: arrowRight
         iconPosition: right
