@@ -30,7 +30,7 @@
         },
         {
             "label": "Impressum",
-            "url": "/",
+            "url": "/blog/impressum",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
