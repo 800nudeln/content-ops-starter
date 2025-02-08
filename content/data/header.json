@@ -16,7 +16,7 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Über uns",
+                    "label": "Home",
                     "url": "/wir",
                     "icon": "arrowRight",
                     "iconPosition": "right",
