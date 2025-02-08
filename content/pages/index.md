@@ -65,7 +65,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: Kontakt
+        label: Kontakt und Kostenübernahme
         altText: ''
         url: /
         showIcon: false
