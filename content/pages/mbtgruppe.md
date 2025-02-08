@@ -1,38 +1,7 @@
 ---
 type: PageLayout
 title: MBT_Gruppe
-sections:
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Das Psychosomatikum Hamburg
-      color: text-dark
-    subtitle: ''
-    text: ''
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/pexels-jan-van-der-wolf-11680885-19013463.jpg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-    badge:
-      type: Badge
-      label: Fachzentrum für psychosomatische Medizin und Psychotherapie
-      color: text-primary
-      styles:
-        self:
-          fontWeight: 400
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-6
-          - pl-6
-          - pb-6
-          - pr-6
+sections: []
 slug: /mbtgruppe
 seo:
   type: Seo
