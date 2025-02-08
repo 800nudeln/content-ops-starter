@@ -13,7 +13,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/pexels-jan-van-der-wolf-11680885-19013463.jpg
-      altText: Unblock your team boost your time to production preview
+      altText: ''
       elementId: ''
     badge:
       type: Badge
