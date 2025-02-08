@@ -47,7 +47,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: Diagnostik
+        label: Diagnostik & Beratung
         altText: ''
         url: /
         showIcon: false
