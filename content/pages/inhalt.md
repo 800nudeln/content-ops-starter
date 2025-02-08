@@ -93,7 +93,7 @@ sections:
             - ml-16
             - mt-4
           padding:
-            - pt-6
+            - pt-2
     elementId: ''
     colors: bg-light-fg-dark
     styles:
