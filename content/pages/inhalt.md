@@ -90,7 +90,7 @@ sections:
       styles:
         self:
           margin:
-            - ml-16
+            - ml-0
             - mt-4
           padding:
             - pt-2
