@@ -1,6 +1,6 @@
 ---
 title: Diagnostik
-slug: Diagnostik
+slug: /diagnostik
 date: '2021-08-25'
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
