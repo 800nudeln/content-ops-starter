@@ -56,7 +56,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: Hilfrecihes
+        label: Hilfreiches
         altText: ''
         url: /
         showIcon: false
