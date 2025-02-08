@@ -47,18 +47,18 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: Hilfreiches
+        label: Zur Person
         altText: ''
-        url: /hilfreiches
+        url: /person
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
       - type: Link
-        label: Zur Person
+        label: Hilfreiches
         altText: ''
-        url: /person
+        url: /hilfreiches
         showIcon: false
         icon: arrowRight
         iconPosition: right
