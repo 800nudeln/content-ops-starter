@@ -58,7 +58,7 @@ sections:
       - type: Link
         label: Zur Person
         altText: ''
-        url: /
+        url: /person
         showIcon: false
         icon: arrowRight
         iconPosition: right
