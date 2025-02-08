@@ -65,15 +65,6 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: Kooperationen
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-      - type: Link
         label: Hilfreiches
         altText: ''
         url: /
