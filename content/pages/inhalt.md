@@ -15,7 +15,7 @@ sections:
         altText: ''
         url: /ZurPerson
         showIcon: true
-        icon: reddit
+        icon: mail
         iconPosition: right
         style: secondary
         elementId: ''
