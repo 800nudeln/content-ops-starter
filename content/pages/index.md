@@ -29,7 +29,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: Begutachtung
+        label: Balint-Gruppe
         altText: ''
         url: blog/Begutachtung/
         showIcon: false
