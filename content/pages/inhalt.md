@@ -74,7 +74,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: See Tutorials
+        label: Hilfreiches
         altText: ''
         url: /
         showIcon: false
