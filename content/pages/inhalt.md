@@ -15,7 +15,7 @@ sections:
         altText: ''
         url: /ZurPerson
         showIcon: true
-        icon: shoppingBag
+        icon: reddit
         iconPosition: right
         style: secondary
         elementId: ''
