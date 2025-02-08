@@ -40,7 +40,7 @@ sections:
       - type: Link
         label: Supervision
         altText: ''
-        url: /
+        url: /supervision
         showIcon: false
         icon: arrowRight
         iconPosition: right
