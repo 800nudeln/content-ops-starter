@@ -1,6 +1,6 @@
 ---
 title: 'Mentalisierungsbasierte Gruppentherapie '
-slug: five-tips-for-starting-a-startup
+slug: MBT-G
 date: '2025-03-18'
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
