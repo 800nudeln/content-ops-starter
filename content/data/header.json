@@ -17,7 +17,7 @@
             "links": [
                 {
                     "label": "Home",
-                    "url": "/wir",
+                    "url": "/home",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
