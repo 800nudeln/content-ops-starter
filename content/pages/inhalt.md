@@ -92,6 +92,8 @@ sections:
           margin:
             - ml-16
             - mt-4
+          padding:
+            - pt-6
     elementId: ''
     colors: bg-light-fg-dark
     styles:
