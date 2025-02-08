@@ -16,39 +16,21 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Über uns",
-                    "url": "/wir",
+                    "label": "Startseite",
+                    "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link",
                     "altText": "Uns"
-                },
-                {
-                    "label": "Finanzierung",
-                    "url": "/finanz",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link",
-                    "altText": "Finanz"
-                },
-                {
-                    "label": "Kontakt",
-                    "url": "/kontakt",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link",
-                    "altText": "kontakt"
                 }
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
         },
         {
-            "label": "Kontakt",
-            "url": "/PSHH",
+            "label": "Impressum",
+            "url": "/blog/impressum",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -59,5 +41,5 @@
     "variant": "logo-left-primary-nav-right",
     "colors": "bg-neutral-fg-dark",
     "type": "Header",
-    "title": "Das Psychosomatikum in Hamburg // PSHH"
+    "title": "Das Psychosomatikum - Fachzentrum für Psychosomatische Medizin"
 }

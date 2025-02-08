@@ -3,61 +3,7 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
-    "primaryLinks": {
-        "title": "Product",
-        "links": [
-            {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Pricing",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
-    "secondaryLinks": {
-        "title": "Company",
-        "links": [
-            {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
+    "text": "Fachzentrum für psychosomatische Medizin, tiefenpsychologisch-fundierte Psychotherapie, psychodynamische Supervision, Diagnostik und Begutachtung\n",
     "socialLinks": [],
     "legalLinks": [
         {
@@ -77,17 +23,17 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Inhaber: Benjamin Becker,\n\nFacharzt für Psychosomatische Medizin\n",
+    "copyrightText": "Inhaber und Vorsitz: Benjamin Becker,\n\nFacharzt für Psychosomatische Medizin und tiefenpsychologisch-fundierte Psychotherapie\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer",
-    "title": "Psychosomatikum Hamburg",
+    "title": "Psychosomatikum Hamburg - PSHH",
     "styles": {
         "self": {
             "padding": [
-                "pt-4",
-                "pb-4",
-                "pl-4",
-                "pr-4"
+                "pt-2",
+                "pb-0",
+                "pl-0",
+                "pr-0"
             ],
             "margin": [
                 "mb-0",
