@@ -31,7 +31,7 @@ sections:
       - type: Link
         label: Balint-Gruppe
         altText: ''
-        url: blog/Begutachtung/
+        url: blog/balintgruppe
         showIcon: false
         icon: arrowRight
         iconPosition: right
