@@ -29,7 +29,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: Gruppentherapie
+        label: Begutachtung
         altText: ''
         url: /
         showIcon: false
