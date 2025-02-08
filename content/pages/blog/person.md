@@ -36,23 +36,19 @@ Facharzt für psychosomatische Medizin und tiefenpsychologisch-fundierte Psychot
 
 Zertifizierter Diagnostiker für die operationalisierte psychodynamische Diagnostik (OPD-2) seit 2018
 
-
-
 **Beruflicher Werdegang**
 
 Studium der Humanmedizin an der Ludwig-Maximilian-Universität München und der Westfälischen Wilhelms Universität Münster
 
 Assistenzärztliche Tätigkeit in der Akut- und Intensivneurologie sowie der Allgemeinen Inneren Medizin
 
-Assistenzärztliche Sozial- und Akutpsychiatrische Tätigkeit 
+Assistenzärztliche Sozial- und Akutpsychiatrische Tätigkeit
 
 Wissenschaftlicher Assistent an der Klinik für psychosomatische Medizin der Universitätsklinik Münster (Prof. Dr. med. Dr. theol. G. Heuft)
 
 Assistenzärztliche Tätigkeit an der Klinik für Psychosomatische Medizin am Asklepsios Westklinikum Rissen (Dr. med. G. Broszeit)
 
 Oberärztliche Tätigkeit an der psychiatrischen Abteilung am evangelischen Krankenhaus Ginsterhof
-
-
 
 **Mitgliedschaften**
 
