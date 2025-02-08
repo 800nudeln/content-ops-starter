@@ -15,7 +15,7 @@ sections:
         altText: ''
         url: /ZurPerson
         showIcon: true
-        icon: mail
+        icon: chevronBigRight
         iconPosition: right
         style: secondary
         elementId: ''
