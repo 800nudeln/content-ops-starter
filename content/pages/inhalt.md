@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Das Psychosomatikum Hamburg
+      text: ''
       color: text-dark
     subtitle: ''
     text: ''
