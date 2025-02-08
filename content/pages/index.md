@@ -31,7 +31,7 @@ sections:
       - type: Link
         label: Begutachtung
         altText: ''
-        url: /begutachtung
+        url: blog/Begutachtung/
         showIcon: false
         icon: arrowRight
         iconPosition: right
