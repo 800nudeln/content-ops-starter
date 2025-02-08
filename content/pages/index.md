@@ -11,7 +11,7 @@ sections:
     text: ''
     actions:
       - type: Link
-        label: See Tutorials
+        label: Diagnostik und Beratung
         altText: ''
         url: /
         showIcon: false
