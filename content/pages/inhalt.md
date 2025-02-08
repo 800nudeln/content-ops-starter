@@ -90,7 +90,7 @@ sections:
       styles:
         self:
           margin:
-            - ml-32
+            - ml-16
             - mt-4
     elementId: ''
     colors: bg-light-fg-dark
