@@ -38,7 +38,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: Gutachten
+        label: Diagnostik & Beratung
         altText: ''
         url: /
         showIcon: false
@@ -47,7 +47,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: Diagnostik & Beratung
+        label: Gutachten
         altText: ''
         url: /
         showIcon: false
