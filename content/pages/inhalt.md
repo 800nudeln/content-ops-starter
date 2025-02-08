@@ -73,7 +73,7 @@ sections:
         self:
           margin:
             - ml-0
-            - mt-14
+            - mt-0
           padding:
             - pt-2
             - pr-2
