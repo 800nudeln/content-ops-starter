@@ -9,7 +9,16 @@ sections:
       color: text-dark
     subtitle: ''
     text: ''
-    actions: []
+    actions:
+      - type: Link
+        label: See Tutorials
+        altText: ''
+        url: /ZurPerson
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/pexels-jan-van-der-wolf-11680885-19013463.jpg
