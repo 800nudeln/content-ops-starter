@@ -64,6 +64,15 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+      - type: Link
+        label: See Tutorials
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/pexels-jan-van-der-wolf-11680885-19013463.jpg
