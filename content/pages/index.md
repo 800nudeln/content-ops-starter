@@ -13,7 +13,7 @@ sections:
       - type: Link
         label: 'Diagnostik, Beratung und Begutachtung'
         altText: ''
-        url: blog/diagnostik
+        url: blog/diagnostik/
         showIcon: false
         icon: arrowRight
         iconPosition: right
