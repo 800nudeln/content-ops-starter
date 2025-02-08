@@ -1,5 +1,5 @@
 ---
-title: Einzeltherapie
+title: Psychotherapie
 slug: Einzeltherapie
 date: '2023-03-27'
 excerpt: >-
