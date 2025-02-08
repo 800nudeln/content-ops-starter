@@ -67,7 +67,7 @@ sections:
       - type: Link
         label: Hilfreiches
         altText: ''
-        url: /hilfreiches
+        url: blog/hilfreiches
         showIcon: false
         icon: arrowRight
         iconPosition: right
