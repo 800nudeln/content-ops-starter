@@ -47,7 +47,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: See Tutorials
+        label: Diagnostik
         altText: ''
         url: /
         showIcon: false
