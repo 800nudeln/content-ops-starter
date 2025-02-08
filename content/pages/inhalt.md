@@ -29,7 +29,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: Einzeltherapie
+        label: Diagnostik & Beratung
         altText: ''
         url: /
         showIcon: false
@@ -38,7 +38,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: Diagnostik & Beratung
+        label: Einzeltherapie
         altText: ''
         url: /
         showIcon: false
