@@ -49,7 +49,7 @@ sections:
       - type: Link
         label: Hilfreiches
         altText: ''
-        url: /
+        url: /hilfreiches
         showIcon: false
         icon: arrowRight
         iconPosition: right
