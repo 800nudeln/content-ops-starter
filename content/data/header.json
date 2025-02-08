@@ -30,7 +30,7 @@
         },
         {
             "label": "Impressum",
-            "url": "/PSHH",
+            "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
