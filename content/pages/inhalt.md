@@ -15,6 +15,10 @@ sections:
       url: /images/pexels-jan-van-der-wolf-11680885-19013463.jpg
       altText: ''
       elementId: ''
+      styles:
+        self:
+          margin:
+            - ml-6
     badge:
       type: Badge
       label: Fachzentrum für psychosomatische Medizin und Psychotherapie
