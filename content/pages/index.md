@@ -22,7 +22,7 @@ sections:
       - type: Link
         label: Psychotherapie
         altText: ''
-        url: /psychotherapie/
+        url: blog/psychotherapie/
         showIcon: false
         icon: arrowRight
         iconPosition: right
