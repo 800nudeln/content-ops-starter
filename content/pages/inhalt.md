@@ -20,7 +20,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: Einzeltherapie
+        label: MBT - Gruppe
         altText: ''
         url: /
         showIcon: false
@@ -29,7 +29,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: MBT - Gruppe
+        label: Einzeltherapie
         altText: ''
         url: /
         showIcon: false
