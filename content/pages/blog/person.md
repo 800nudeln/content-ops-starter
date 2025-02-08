@@ -28,30 +28,49 @@ styles:
 ---
 **Berufsspezifische Fortbildungen und Fähigkeiten**
 
-Psychotherapeutische Ausbildung am Michael-Balint-Institut Hamburg, Abschluss 2025
+Facharzt für psychosomatische Medizin und tiefenpsychologisch-fundierte Psychotherapie (seit 2022, anerk. durch die Ärztekammer Hamburg)
 
-Practitioner für Mentalisierungsbasierte Therapie (MBT-DaCH) seit 2025
+Psychotherapeutische Ausbildung durch das Michael-Balint-Institut Hamburg, Abschluss 2025
 
-Facharzt für psychosomatische Medizin und tiefenpsychologisch-fundierte Psychotherapie seit 2022
+**Zusatzausbildung und Zertifizierungen**
 
-Zertifizierter Diagnostiker für die operationalisierte psychodynamische Diagnostik (OPD-2) seit 2018
+*   Practitioner für Mentalisierungsbasierte Therapie (seit 2025, zert. durch MBT-DaCH)
+
+*   Diagnostiker für die operationalisierte psychodynamische Diagnostik (OPD-2) (seit 2018, zert. durch Universitätsklinik Münster)
+
+*   Medizinisch-psychologische Begutachtung (2025, zert. durch die Ärztekammer Hamburg)
+
+
 
 **Beruflicher Werdegang**
 
-Studium der Humanmedizin an der Ludwig-Maximilian-Universität München und der Westfälischen Wilhelms Universität Münster
+Studium der Humanmedizin 
 
-Assistenzärztliche Tätigkeit in der Akut- und Intensivneurologie sowie der Allgemeinen Inneren Medizin
+*   Ludwig-Maximilian-Universität München
 
-Assistenzärztliche Sozial- und Akutpsychiatrische Tätigkeit
+*   Westfälischen Wilhelms Universität Münster
 
-Wissenschaftlicher Assistent an der Klinik für psychosomatische Medizin der Universitätsklinik Münster (Prof. Dr. med. Dr. theol. G. Heuft)
+Assistenzärztliche Tätigkeit 
 
-Assistenzärztliche Tätigkeit an der Klinik für Psychosomatische Medizin am Asklepsios Westklinikum Rissen (Dr. med. G. Broszeit)
+*   Akut- und Intensivneurologie sowie der Allgemeinen Inneren Medizin
 
-Oberärztliche Tätigkeit an der psychiatrischen Abteilung am evangelischen Krankenhaus Ginsterhof
+*   Sozial- und Akutpsychiatrische Tätigkeit
+
+*   Klinik für psychosomatische Medizin der Universitätsklinik Münster (Prof. Dr. med. Dr. theol. G. Heuft)
+
+*   Klinik für Psychosomatische Medizin am Asklepsios Westklinikum Rissen (Dr. med. G. Broszeit)
+
+Oberärztliche Tätigkeit
+
+*   Psychiatrischen Abteilung am evangelischen Krankenhaus Ginsterhof
+
+****
 
 **Mitgliedschaften**
 
-Michael-Balint-Institut Hamburg
+*   Michael-Balint-Institut Hamburg
 
-DGPPN - Deutsche Gesellschaft für Psychiatrie und Psychotherapie, Psychosomatik und Nervenheilkunde
+<!---->
+
+*   DGPPN - Deutsche Gesellschaft für Psychiatrie und Psychotherapie, Psychosomatik und Nervenheilkunde
+
