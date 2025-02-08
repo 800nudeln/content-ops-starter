@@ -17,7 +17,7 @@
             "links": [
                 {
                     "label": "Home",
-                    "url": "/home",
+                    "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
