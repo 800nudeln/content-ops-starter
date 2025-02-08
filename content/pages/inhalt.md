@@ -94,6 +94,7 @@ sections:
             - mt-4
           padding:
             - pt-2
+            - pr-2
     elementId: ''
     colors: bg-light-fg-dark
     styles:
