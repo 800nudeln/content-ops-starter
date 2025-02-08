@@ -1,5 +1,5 @@
 ---
-title: A Day in the Life of Our Development Team
+title: Einzeltherapie
 slug: Einzeltherapie
 date: '2023-03-27'
 excerpt: >-
