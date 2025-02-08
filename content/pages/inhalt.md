@@ -38,7 +38,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: See Tutorials
+        label: Gutachten
         altText: ''
         url: /
         showIcon: false
