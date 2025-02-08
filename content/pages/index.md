@@ -38,7 +38,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: See Tutorials
+        label: Supervision
         altText: ''
         url: /
         showIcon: false
