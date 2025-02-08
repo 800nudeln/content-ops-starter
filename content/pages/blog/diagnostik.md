@@ -1,6 +1,6 @@
 ---
 title: Diagnostik
-slug: top-ten-lessons-we-learned
+slug: Diagnostik
 date: '2021-08-25'
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
