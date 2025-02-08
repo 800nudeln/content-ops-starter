@@ -56,7 +56,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: Kostenübernahme
+        label: Informationen
         altText: ''
         url: /
         showIcon: false
