@@ -4,29 +4,6 @@
         "type": "ImageBlock"
     },
     "text": "Fachzentrum für psychosomatische Medizin, tiefenpsychologisch-fundierte Psychotherapie, psychodynamische Supervision, Diagnostik und Begutachtung\n",
-    "secondaryLinks": {
-        "title": "Company",
-        "links": [
-            {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Blog",
-                "url": "/blog",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
     "socialLinks": [],
     "legalLinks": [
         {
