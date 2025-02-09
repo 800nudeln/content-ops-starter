@@ -110,7 +110,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Aktuelles
       color: text-dark
       styles:
         self:
