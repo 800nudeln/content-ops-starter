@@ -110,7 +110,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Praxisferien
       color: text-dark
       styles:
         self:
