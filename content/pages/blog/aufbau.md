@@ -4,8 +4,8 @@ title: Praixsaufbau
 date: '2025-02-08'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  Praxis und Homepage befinden sich derzeit im Aufbau. Aktuelle werden keine
+  Behandlungen angeboten.
 featuredImage:
   type: ImageBlock
   altText: Thumbnail
