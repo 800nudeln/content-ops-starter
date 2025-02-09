@@ -5,16 +5,7 @@
     },
     "text": "Fachzentrum für psychosomatische Medizin, tiefenpsychologisch-fundierte Psychotherapie, psychodynamische Supervision, Diagnostik und Begutachtung\n",
     "socialLinks": [],
-    "legalLinks": [
-        {
-            "label": "Privacy",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        }
-    ],
+    "legalLinks": [],
     "copyrightText": "Inhaber und Vorsitz: Benjamin Becker,\n\nFacharzt für Psychosomatische Medizin und tiefenpsychologisch-fundierte Psychotherapie\n",
     "colors": "bg-neutral-fg-dark",
     "type": "Footer",
