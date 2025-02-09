@@ -3,10 +3,7 @@ type: PostLayout
 title: Praxisferien
 slug: what-is-a-design-system
 date: '2023-02-14'
-excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+excerpt: MärzferienPflingstferienSommerferienHerbstferienWeihnachtspause
 featuredImage:
   url: /images/abstract-feature3.svg
   altText: Thumbnail
