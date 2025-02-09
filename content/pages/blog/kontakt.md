@@ -25,8 +25,6 @@ styles:
   self:
     flexDirection: col
 ---
-**Praxisferien**
-
 **Kostenübernahme**
 
 Die Kosten Ihrer Behandlung werden in der Regel von allen gesetzlichen Krankenkassen übernommen. Vor Beginn einer Behandlung sollten Sie sich informieren, ob Ihre Kasse die Kosten übernimmt.
