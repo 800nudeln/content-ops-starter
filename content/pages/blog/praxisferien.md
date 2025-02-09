@@ -2,9 +2,7 @@
 type: PostLayout
 title: Praxisferien
 date: '2023-03-26'
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: Hier finden Sie die jahresaktuellen Ferienzeiten der Praxis
 featuredImage:
   type: ImageBlock
   altText: Thumbnail
