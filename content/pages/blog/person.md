@@ -27,13 +27,17 @@ styles:
 ---
 **Das Fachzentrum "Psychosomatik"**
 
-**LORE ISPUM!**
+Wer wir sind: LORE ISPUM!
 
-****
+Der Weg zu uns: LORE IPSUM!
+
+Kontakt: 
+
+***
 
 **Die Behandler**
 
-****
+***
 
 **Benjamin Becker**
 
