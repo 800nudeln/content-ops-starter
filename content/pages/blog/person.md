@@ -25,6 +25,18 @@ styles:
   self:
     flexDirection: col
 ---
+**Das Fachzentrum "Psychosomatik"**
+
+**LORE ISPUM!**
+
+****
+
+**Die Behandler**
+
+****
+
+**Benjamin Becker**
+
 **Berufsspezifische Fortbildungen und Fähigkeiten**
 
 Facharzt für psychosomatische Medizin und tiefenpsychologisch-fundierte Psychotherapie (seit 2022, anerk. durch die Ärztekammer Hamburg)
