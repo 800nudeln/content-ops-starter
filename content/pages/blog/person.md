@@ -16,6 +16,7 @@ slug: /person
 isFeatured: false
 seo:
   type: Seo
+  metaTitle: Das Psychosomatikum Hamburg / PSHH
 colors: bg-light-fg-dark
 styles:
   self:
