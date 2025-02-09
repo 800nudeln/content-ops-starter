@@ -47,7 +47,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: Zur Person
+        label: Über uns
         altText: ''
         url: blog/person
         showIcon: false
