@@ -27,25 +27,23 @@ styles:
 ---
 **Praxisferien**
 
-
-
 **Kostenübernahme**
 
-Die Kosten Ihrer Behandlung werden in der Regel von allen gesetzlichen Krankenkassen übernommen. Vor Beginn einer Behandlung sollten Sie sich informieren, ob Ihre Kasse die Kosten übernimmt. 
+Die Kosten Ihrer Behandlung werden in der Regel von allen gesetzlichen Krankenkassen übernommen. Vor Beginn einer Behandlung sollten Sie sich informieren, ob Ihre Kasse die Kosten übernimmt.
 
 Privatversicherte ...
 
 Kostenübernahmeverfahren ...
 
-Sollten Sie die Kosten Ihrer Behandlung selbst tragen wollen, vereinbaren wir zu Beginn einen detaillierten Behandlungsplan. Das Honorar orientiert sich an der jeweils geltenden Gebührenordnung für Ärzte (GOÄ). 
+Sollten Sie die Kosten Ihrer Behandlung selbst tragen wollen, vereinbaren wir zu Beginn einen detaillierten Behandlungsplan. Das Honorar orientiert sich an der jeweils geltenden Gebührenordnung für Ärzte (GOÄ).
 
-Die Kosten pro Sitzung belaufen sich 
+| Einzelpsychotherapie  | Sitzung à 50 min | 150 Euro |
+| --------------------- | ---------------- | -------- |
+| Gruppenpsychotherapie | Sitzung à 90 min | 50 Euro  |
+| Supervision           | Sitzung à 50 min | 100 Euro |
+| Begutachtung          | variiert         | variiert |
 
-*   Einzelpsychotherapie      - Sitzung à 50min - 150 Euro
 
-*   Gruppenpsychotherapie - Sitzung à 90min  - 50  Euro
 
-*   Supervision                      - Sitzung à 50min  - 100 Euro
-
-*   Begutachtung - die Kosten variieren nach Aufwand der Fragestellung. Neben der Untersuchung im vertraulichen Gespräch können Kosten für Test-Diagnostik, Sichtung bereits vorliegender Befunde, das Hinzuziehen weiterer Untersuchungen durch Fachkollegen und das Einholen von Informationen Dritter anfallen. Die Erstellung des Gutachtens wird zusätzlich berechnet. 
+Die Kosten variieren nach Aufwand der Fragestellung. Neben der Untersuchung im vertraulichen Gespräch können Kosten für Test-Diagnostik, Sichtung bereits vorliegender Befunde, das Hinzuziehen weiterer Untersuchungen durch Fachkollegen und das Einholen von Informationen Dritter anfallen. Die Erstellung des Gutachtens wird zusätzlich berechnet.
 
