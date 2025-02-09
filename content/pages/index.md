@@ -29,18 +29,18 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: Balint-Gruppe
+        label: Über uns
         altText: ''
-        url: blog/balintgruppe
+        url: blog/person
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
       - type: Link
-        label: Über uns
+        label: Balint-Gruppe
         altText: ''
-        url: blog/person
+        url: blog/balintgruppe
         showIcon: false
         icon: arrowRight
         iconPosition: right
