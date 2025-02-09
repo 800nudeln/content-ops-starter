@@ -3,8 +3,8 @@ type: PostLayout
 title: Praxisaufbau
 date: '2025-02-08'
 excerpt: >-
-  Fachzentrum und Homepage befinden sich derzeit im Aufbau. Aktuelle werden
-  keine Behandlungen angeboten.
+  Fachzentrum und Homepage befinden sich derzeit im Aufbau. Aktuell werden keine
+  Behandlungen angeboten.
 featuredImage:
   type: ImageBlock
   altText: Thumbnail
