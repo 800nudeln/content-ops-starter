@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Praixsaufbau
+title: Praxisaufbau
 date: '2025-02-08'
 author: content/data/person1.json
 excerpt: >-
