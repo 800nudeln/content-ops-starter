@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Kontakt
+title: Kostenübernahme
 date: '2023-03-26'
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
