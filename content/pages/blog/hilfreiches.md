@@ -4,8 +4,8 @@ title: Hilfreiches
 date: '2023-03-26'
 author: content/data/person1.json
 excerpt: >-
-  Hier finden Sie aktuelle Tipps und Links rund um die Themen Gesellschaft und
-  psychische Gesundheit
+  Hier finden Sie Tipps und Links rund um die Themen Gesellschaft und psychische
+  Gesundheit
 featuredImage:
   type: ImageBlock
   altText: Thumbnail
