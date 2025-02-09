@@ -116,6 +116,7 @@ sections:
         self:
           textAlign: center
     posts:
+      - content/pages/blog/aufbau.md
       - content/pages/blog/hilfreiches.md
       - content/pages/blog/praxisferien.md
     showThumbnail: true
