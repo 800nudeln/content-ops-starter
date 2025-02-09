@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Zur Person
+title: Über das Psychosomatikum
 date: '2025-02-08'
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
