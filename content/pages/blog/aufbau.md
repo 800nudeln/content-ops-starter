@@ -2,7 +2,6 @@
 type: PostLayout
 title: Praxisaufbau
 date: '2025-02-08'
-author: content/data/person1.json
 excerpt: >-
   Praxis und Homepage befinden sich derzeit im Aufbau. Aktuelle werden keine
   Behandlungen angeboten.
