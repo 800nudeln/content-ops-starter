@@ -139,7 +139,6 @@ sections:
 seo:
   metaTitle: Startseite
   metaDescription: ''
-  socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
 ---
