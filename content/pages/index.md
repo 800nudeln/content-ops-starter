@@ -11,18 +11,18 @@ sections:
     text: ''
     actions:
       - type: Link
-        label: 'Diagnostik, Beratung und Begutachtung'
+        label: Über uns
         altText: ''
-        url: blog/diagnostik
+        url: blog/person
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
       - type: Link
-        label: Über uns
+        label: 'Diagnostik, Beratung und Begutachtung'
         altText: ''
-        url: blog/person
+        url: blog/diagnostik
         showIcon: false
         icon: arrowRight
         iconPosition: right
