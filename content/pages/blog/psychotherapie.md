@@ -17,7 +17,7 @@ isFeatured: false
 seo:
   type: Seo
   metaTitle: Das Psychosomatikum Hamburg / PSHH
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
+  metaDescription: Das Psychosomatikum Hamburg / PSHH
   socialImage: /images/abstract-feature1.svg
   metaTags: []
 colors: bg-light-fg-dark
