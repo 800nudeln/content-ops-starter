@@ -11,9 +11,18 @@ sections:
     text: ''
     actions:
       - type: Link
+        label: Über uns
+        altText: ''
+        url: blog/person
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Link
         label: 'Diagnostik, Beratung und Begutachtung'
         altText: ''
-        url: blog/diagnostik/
+        url: blog/diagnostik
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -29,15 +38,6 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: Balint-Gruppe
-        altText: ''
-        url: blog/balintgruppe
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-      - type: Link
         label: Supervision
         altText: ''
         url: blog/supervision
@@ -47,9 +47,9 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: Über uns
+        label: Balint-Gruppe
         altText: ''
-        url: blog/person
+        url: blog/balintgruppe
         showIcon: false
         icon: arrowRight
         iconPosition: right
