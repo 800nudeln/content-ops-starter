@@ -25,11 +25,11 @@ styles:
   self:
     flexDirection: col
 ---
-*   Kostenübernahme
+Hamburger Links für psychische Gesundheit (Terminfindung, Gruppentherapie, 
 
-*   Kooperationspartner
+*   Kooperationspartner (MBI; AEMI; IfP; Rissen; Ginsterhof; Anna Freud; DGGPN, DKMP, 
 
-*   Links
+*   Links 
 
 *   Grundsätzliches
 
