@@ -17,7 +17,7 @@ slug: /supervision
 isFeatured: false
 seo:
   type: Seo
-  metaTitle: Surround Yourself With the Right People
+  metaTitle: Das Psychosomatikum Hamburg / PSHH
   metaDescription: You can add the excerpt and main keywords of your blog post here.
   socialImage: /images/abstract-feature1.svg
   metaTags: []
