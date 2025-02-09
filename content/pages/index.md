@@ -20,18 +20,18 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: Psychotherapie
+        label: Über uns
         altText: ''
-        url: blog/psychotherapie/
+        url: blog/person
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
       - type: Link
-        label: Über uns
+        label: Psychotherapie
         altText: ''
-        url: blog/person
+        url: blog/psychotherapie/
         showIcon: false
         icon: arrowRight
         iconPosition: right
