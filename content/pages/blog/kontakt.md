@@ -42,6 +42,6 @@ Sollten Sie die Kosten Ihrer Behandlung selbst tragen wollen, vereinbaren wir zu
 | Einzelpsychotherapie  | Sitzung  à 50 min | 150 Euro |
 | Gruppenpsychotherapie | Sitzung à 90 min  | 50 Euro  |
 | Supervision           | Sitzung à 50 min  | 100 Euro |
-| Begutachtung          | variiert          | variiert |
+| Begutachtung          | s. unten          |          |
 
-Die Kosten variieren nach Aufwand der Fragestellung. Neben der Untersuchung im vertraulichen Gespräch können Kosten für Test-Diagnostik, Sichtung bereits vorliegender Befunde, das Hinzuziehen weiterer Untersuchungen durch Fachkollegen und das Einholen von Informationen Dritter anfallen. Die Erstellung des Gutachtens wird zusätzlich berechnet.
+Die Kosten, die im Rahmen einer Begutachtung entstehen, variieren nach Aufwand der Fragestellung. Neben der Untersuchung im vertraulichen Gespräch können Kosten für Test-Diagnostik, Sichtung bereits vorliegender Befunde, das Hinzuziehen weiterer Untersuchungen durch Fachkollegen und das Einholen von Informationen Dritter anfallen. Die Erstellung des Gutachtens wird zusätzlich berechnet.
