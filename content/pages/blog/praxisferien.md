@@ -14,8 +14,8 @@ slug: /praxisferien
 isFeatured: false
 seo:
   type: Seo
-  metaTitle: Surround Yourself With the Right People
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
+  metaTitle: Das Psychosomatikum Hamburg / PSHH
+  metaDescription: Das Psychosomatikum Hamburg / PSHH
   socialImage: /images/abstract-feature1.svg
   metaTags: []
 colors: bg-light-fg-dark
