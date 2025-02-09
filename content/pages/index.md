@@ -56,7 +56,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: Kontakt und Kostenübernahme
+        label: Kostenübernahme
         altText: ''
         url: blog/kontakt
         showIcon: false
