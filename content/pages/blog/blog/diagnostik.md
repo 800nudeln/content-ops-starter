@@ -1,6 +1,6 @@
 ---
 title: Diagnostik
-slug: /diagnostik
+slug: /blog/diagnostik
 date: '2021-08-25'
 excerpt: ''
 featuredImage:
