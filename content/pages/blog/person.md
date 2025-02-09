@@ -16,10 +16,6 @@ slug: /person
 isFeatured: false
 seo:
   type: Seo
-  metaTitle: Surround Yourself With the Right People
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
-  socialImage: /images/abstract-feature1.svg
-  metaTags: []
 colors: bg-light-fg-dark
 styles:
   self:
