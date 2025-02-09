@@ -2,7 +2,7 @@
 type: PostLayout
 title: Praxisferien
 date: '2023-03-26'
-excerpt: Hier finden Sie die jahresaktuellen Ferienzeiten der Praxis
+excerpt: Hier finden Sie die jahresaktuellen Ferienzeiten
 featuredImage:
   type: ImageBlock
   altText: Thumbnail
