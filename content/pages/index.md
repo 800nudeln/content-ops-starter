@@ -38,18 +38,18 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: Balint-Gruppe
+        label: Supervision
         altText: ''
-        url: blog/balintgruppe
+        url: blog/supervision
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
         elementId: ''
       - type: Link
-        label: Supervision
+        label: Balint-Gruppe
         altText: ''
-        url: blog/supervision
+        url: blog/balintgruppe
         showIcon: false
         icon: arrowRight
         iconPosition: right
