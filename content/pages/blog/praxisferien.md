@@ -26,3 +26,13 @@ styles:
     flexDirection: col
 ---
 Hier können Sie die Ferienzeiten einsehen. Diese orientieren sich an den Hamburger Schulferien.
+
+
+
+| Märzferien      |   |
+| --------------- | - |
+| Pfingstferien   |   |
+| Sommerferien    |   |
+| Herbstferien    |   |
+| Weihnachtspause |   |
+
