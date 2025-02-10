@@ -12,7 +12,7 @@ featuredImage:
     self:
       borderRadius: medium
 bottomSections: []
-slug: blog/psychotherapie
+slug: psychotherapie
 isFeatured: false
 seo:
   type: Seo
