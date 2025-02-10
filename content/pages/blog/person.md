@@ -29,7 +29,7 @@ Wer wir sind: LORE ISPUM!
 
 Der Weg zu uns: LORE IPSUM!
 
-Kontakt: 
+Kontakt:
 
 ***
 
@@ -37,7 +37,7 @@ Kontakt:
 
 ***
 
-**Benjamin Becker**
+****
 
 **Berufsspezifische Fortbildungen und Fähigkeiten**
 
