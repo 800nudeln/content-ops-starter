@@ -140,5 +140,6 @@ seo:
   metaTitle: Startseite
   metaDescription: ''
   type: Seo
+  addTitleSuffix: false
 type: PageLayout
 ---
